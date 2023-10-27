@@ -8,22 +8,24 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "-": "^0.0.1",
-    "D": "^1.0.0",
-    "conventional-changelog": "^5.1.0",
-    "conventional-changelog-cli": "^4.1.0"
+    "husky": "^8.0.3"
   },
   "devDependencies": {
     "commitizen": "^4.3.0",
+    "conventional-changelog-cli": "^4.1.0",
     "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^8.52.0",
     "lerna": "^7.4.0"
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "cz-conventional-changelog"
     }
   },
   "maintainers": [
     "吴尼红"
-  ]
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
 }
