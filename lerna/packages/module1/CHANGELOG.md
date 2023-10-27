@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/wyh741953737/newSource/compare/v0.0.8...v0.1.0) (2023-10-27)
+
+**Note:** Version bump only for package module1
+
+
+
+
+
 ## [0.0.8](https://github.com/wyh741953737/newSource/compare/v0.0.7...v0.0.8) (2023-10-27)
 
 **Note:** Version bump only for package module1
